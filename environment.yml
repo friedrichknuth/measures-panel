@@ -15,4 +15,5 @@ dependencies:
   - geopandas=0.5
   - dask=2.4
   - datashader=0.7
-  - nbserverproxy
+  - nbserverproxy=0.8
+  - nodejs=11
