@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3.7
   - jupyterlab=1
+  - jupyter-server-proxy=1
   - boto3=1.9
   - xarray=0.12
   - rasterio=1
@@ -15,5 +16,4 @@ dependencies:
   - geopandas=0.5
   - dask=2.4
   - datashader=0.7
-  - nbserverproxy=0.8
   - nodejs=11
