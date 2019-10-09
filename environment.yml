@@ -6,7 +6,7 @@ dependencies:
   - jupyterlab=1
   - jupyter-server-proxy=1
   - boto3=1.9
-  - xarray=0.12
+  - xarray=0.13
   - rasterio=1
   - panel=0.6
   - holoviews=1.12
