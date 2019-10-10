@@ -18,3 +18,4 @@ dependencies:
   - datashader=0.8
   - nodejs=12.11
   - xrviz=0.1
+  - s3fs=0.3
