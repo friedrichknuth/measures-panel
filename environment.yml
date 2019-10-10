@@ -17,5 +17,6 @@ dependencies:
   - dask=2.5
   - datashader=0.8
   - nodejs=12.11
-  - xrviz=0.1
+  - xrviz=0.1.2
   - s3fs=0.3
+  - geoviews-core=1.6
