@@ -1,4 +1,4 @@
-name: panel
+name: measures
 channels:
   - conda-forge
 dependencies:
@@ -7,7 +7,7 @@ dependencies:
   - jupyter-server-proxy=1.1
   - boto3=1.9
   - xarray=0.14
-  - rasterio=1.1
+  - rasterio=1.0
   - panel=0.6
   - holoviews=1.12
   - hvplot=0.5
@@ -18,5 +18,5 @@ dependencies:
   - datashader=0.8
   - nodejs=12.11
   - pip=19.3
-  pip:
-    - jupyter-panel-proxy=0.1   
+  - pip:
+    - jupyter-panel-proxy==0.1   
